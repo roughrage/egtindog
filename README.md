@@ -1,1 +1,1 @@
-# egtindog
+TinDog Starting Files
